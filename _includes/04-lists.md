@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+A list of my favorite things:
+  - Family (wife, daughter, 2 dogs)
+  - Aircraft
+  - Running
+  - Outdoors
+  - Traveling

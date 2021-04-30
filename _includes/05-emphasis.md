@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Skills and Experiences:
+  - Master's in *Aeronautical Engineering* (2018)
+  - Experience with *MATLAB*
+  - Experience with *LaTeX*
+  - Experience with *DEFORM* and other __FEA Software__
+  - Experience with *Solidworks* and of __CAD__
